@@ -12,7 +12,3 @@ variable "aws_ami" {
   description = "AWS ami"
   default = "ami-0614680123427b75e"
 }
-variable "aws_subnet" {
-  description = "AWS VPC subnet"
-  default = "subnet-0d1e1f0b5338e462f"
-}
